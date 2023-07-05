@@ -426,3 +426,8 @@ Typography
     color: var(--white);
 }
     /* header section style end */
+form{
+    background-color: #000000;
+    width: 200px;
+    border: 10px;
+}
